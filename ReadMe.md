@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Self Driving Car project, expanding the idea further!<br><br>Curious about AR/VR technology and apps<br><br>Fun Fact: Enjoy playing basketball!
+Currently working on React and solving Leetcode programs<br><br>Fun Fact: Enjoy playing basketball!
 
 
 ## 🌐 Socials:
