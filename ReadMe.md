@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on React and solving Leetcode problems.<br><br>Reading The Book Thief by Markus Zusak. <br><br>Fun Fact: Enjoy playing basketball!
+Currently working on React and solving Leetcode problems.<br><br>Reading "Who Moved My Cheese?" and "A Thousand Splendid Suns". <br><br>Fun Fact: Enjoy playing basketball!
 
 
 ## 🌐 Socials:
