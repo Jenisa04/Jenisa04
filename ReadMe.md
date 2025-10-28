@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on React and solving Leetcode problems.<br><br>Reading "Who Moved My Cheese?" and "A Thousand Splendid Suns". <br><br>Fun Fact: Enjoy playing basketball!
+Currently learning about Large Language Models and interested in Voice Models.<br><br>Reading "Who Moved My Cheese?" and "A Thousand Splendid Suns". <br><br>Fun Fact: Got Open Water Scuba Diving License (just to go against my fear of deep water)
 
 
 ## 🌐 Socials:
